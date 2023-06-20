@@ -5,6 +5,6 @@
 
 ## web
 1. 取得智能合約發布後產生的 abi，貼到 contracts 的資料夾中
-2. `npm start` 執行，打開瀏覽器 `localhost:http://localhost:3000/`
+2. `npm start` 執行，打開瀏覽器 `http://localhost:3000/`
 3. 匯入 Ganache 提供的帳戶私鑰
 4. 可以在平台上進行買賣商品ㄌ！
